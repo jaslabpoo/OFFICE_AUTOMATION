@@ -91,12 +91,12 @@ extract_url_pdf(input_url="https://www.icai.org/post.html?post_id=17843")
 # In[6]:
 
 
-extract_url_pdf(input_url="https://cbic-gst.gov.in/central-tax-notifications.html")
-
-# https://cbic-gst.gov.in/central-tax-notifications.html
+extract_url_pdf(input_url="https://bappebti.go.id/pbk/sk_kep_kepala_bappebti/index/115")
 
 
-# In[ ]:
+
+
+# In[ ]:https://bappebti.go.id/pbk/sk_kep_kepala_bappebti/index/115
 
 
 
